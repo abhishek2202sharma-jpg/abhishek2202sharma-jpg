@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Tailwind+Enthusiast;Building+Nexrora+E-commerce;Open+to+Internships+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+and+Tailwind+Enthusiast;Building+Nexrora+E-commerce;Open+to+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
