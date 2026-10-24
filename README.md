@@ -14,7 +14,7 @@ Currently looking for a frontend internship.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projects
-- **[Nexrora E-commerce]([LINK-YAHAN-DAAL](https://github.com/abhishek2202sharma-jpg/E-Commerce.git)** – React + Tailwind e-commerce site with login page, Swiper sliders, cart and wishlist. [Live Demo](https://e-commerce-henna-nu-73.vercel.app/)
+- **[Nexrora E-commerce](https://github.com/abhishek2202sharma-jpg/E-Commerce.git)** – React + Tailwind e-commerce site with login page, Swiper sliders, cart and wishlist. [Live Demo](https://e-commerce-henna-nu-73.vercel.app/)
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/abhishek-sharma-1749b6361
