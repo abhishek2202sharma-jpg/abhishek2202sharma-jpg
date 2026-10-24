@@ -1,9 +1,18 @@
-# Hi, I'm Abhishek Sharma 👋
+<h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 
-Frontend Developer | B.Tech CSE (AIML) @ SR Group of Institutions, Jhansi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Tailwind+Enthusiast;Building+Nexrora+E-commerce;Open+to+Internships+🚀" alt="Typing SVG" />
+</p>
 
-I build responsive and clean web interfaces with React and Tailwind CSS.
-Currently looking for a frontend internship.
+<p align="center">
+  B.Tech CSE (AIML) @ SR Group of Institutions, Jhansi
+</p>
+
+## ⚡ Right now
+- 🔨 Building: Nexrora, a full e-commerce site in React
+- 📚 Learning: Advanced React, Redux, API integration
+- 🎯 Looking for: Frontend developer internship
+- 💬 Ask me about: Tailwind CSS, responsive design
 
 ## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +23,13 @@ Currently looking for a frontend internship.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projects
-- **[Nexrora E-commerce](https://github.com/abhishek2202sharma-jpg/E-Commerce.git)** – React + Tailwind e-commerce site with login page, Swiper sliders, cart and wishlist. [Live Demo](https://e-commerce-henna-nu-73.vercel.app/)
+- **[Nexrora E-commerce](https://github.com/abhishek2202sharma-jpg/nexrora-ecommerce)**: React + Tailwind e-commerce site with login page, Swiper sliders, cart and wishlist. [Live Demo](LIVE-LINK)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek2202sharma-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2202sharma-jpg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/abhishek-sharma-1749b6361
