@@ -44,7 +44,7 @@ A responsive e-commerce web app where users can browse products, add items to ca
 
 - **Features:** product listing, cart, (apne features yaha add karo)
 - **Tech Stack:** React, HTML, CSS, JavaScript
-- 🔗 [Live Demo]([https://e-commerce-henna-nu-73.vercel.app/]) | 💻 [Source Code](https://github.com/abhishek2202sharma-jpg/E-Commerce)
+- 🔗 [Live Demo](https://e-commerce-henna-nu-73.vercel.app/) | 💻 [Source Code](https://github.com/abhishek2202sharma-jpg/E-Commerce)
 
 > More projects coming soon as I build out my MERN stack skills 🚧
 
@@ -63,6 +63,6 @@ A responsive e-commerce web app where users can browse products, add items to ca
 
 Open to internships and collaboration.
 
-- 💼 [LinkedIn](www.linkedin.com/in/abhishek-sharma-1749b6361)
-- 📧 [youremail@gmail.com](mailto:abhishek2202.sharma.@gmail.com)
-- 📞 [+91XXXXXXXXXX](tel:+918924962769)
+- 💼 (www.linkedin.com/in/abhishek-sharma-1749b6361)
+- 📧 (mailto:abhishek2202.sharma.@gmail.com)
+- 📞 (tel:+918924962769)
